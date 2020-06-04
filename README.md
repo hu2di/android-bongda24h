@@ -8,4 +8,3 @@ Android application parses RSS Feed to read the football newspaper
 - Created by HuyHung Dinh
 - GitHub: https://github.com/hu2di
 - Email: hebitaxy@gmail.com
-- Donate: [**PayPal**](https://www.paypal.me/hungdh)
